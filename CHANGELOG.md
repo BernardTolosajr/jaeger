@@ -6,6 +6,10 @@ Changes by Version
 
 ### Backend Changes
 
+### Breaking changes
+
+* Remove deprecated flags `es.max-num-spans` ([#2482](https://github.com/jaegertracing/jaeger/pull/2482),[@BernardTolosajr](https://github.com/BernardTolosajr))
+
 ### New Features
 
 * Add TLS Support for GRPC and HTTP endpoints of the Query server ([#2337](https://github.com/jaegertracing/jaeger/pull/2337), [@rjs211](https://github.com/rjs211))
